@@ -50,11 +50,9 @@ Welcome to my project portfolio! I am passionate about leveraging data to uncove
   - Found that social media use beyond two hours daily is associated with higher mental health risks.
   - Used statistical techniques to derive actionable insights.
 
-### [Hominid Classification Machine Learning Model with Streamlit Integration](https://github.com/Teret90/ML)
+### [Hominid Classification Model with Streamlit Integration](https://github.com/Teret90/ML)
 
 <img src="./images/Captura de pantalla 2024-04-25 003524.png" alt="Hominidos" width="300"/>
-
-# Hominid Classification Model
 
 **Objective:** Demonstrate the versatility and effectiveness of machine learning models by developing a classification system for hominid species. This project highlights how machine learning can be applied to diverse fields of research beyond traditional business applications.
 
