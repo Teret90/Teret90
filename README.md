@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-# 👩‍💻 Data Scientist | Data Analyst | Data Engineer
+<!--# 👩‍💻 Data Scientist | Data Analyst | Data Engineer-->
 
 
 
