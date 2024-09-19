@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!--# 👩‍💻 Data Scientist | Data Analyst | Data Engineer-->
 
-![Logo](./assets/img/banner4.png)
+<img src="./assets/img/banner4.png" alt="Banner" width="800" height="400"/>
 
 ## About Me
 
@@ -56,7 +56,7 @@ I’ve always been fascinated by how data can shape the world around us. With a 
 
 **Analytical Thinking:** 🔍 | **Problem-Solving:** 🛠️ | **Teamwork:** 🤝 | **Critical Thinking:** 🧠 | **Adaptability:** 🌈
 
-## 📝 Featured Projects
+## Featured Projects
 
 | **Project**                                     | **Description**                                                         | **Technologies**                      | **Key Achievements**                                               |
 |-------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------|--------------------------------------------------------------------|
