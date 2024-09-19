@@ -18,20 +18,14 @@ Here are some ideas to get you started:
 
 <!--# 👩‍💻 Data Scientist | Data Analyst | Data Engineer-->
 
+![Logo](./assets/img/banner4.png)
+
+## About Me
+
+I’ve always been fascinated by how data can shape the world around us. With a background in **Sociology** and **Forestry Management**, I developed a deep curiosity for understanding complex systems and their impact on both people and the environment. My journey into data science truly began during my time at a startup in Soria, where I worked closely with experts building advanced **machine learning models** to provide accurate agricultural predictions. While my role focused on **gathering and analyzing data**, their passion and expertise sparked my own interest in diving deeper into this incredible field. Now, I’m driven to apply these tools to create meaningful, data-driven solutions that can make a real difference in today’s world.
 
 
-Welcome to my project portfolio! I am passionate about leveraging data to uncover patterns and trends that drive strategic decision-making. With experience in agricultural data analysis and machine learning, I am eager to contribute to impactful, data-driven projects. Below you will find my key projects, professional experience, and technical skills.
 
-## 🚀 Skills
-
-- **Languages:** Python, SQL
-- **Data Analysis & Machine Learning Libraries:** Pandas, Numpy, Scikit-learn, TensorFlow, Keras, OpenCV (CV2)
-- **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn, Plotly
-- **Databases:** MongoDB, PostgreSQL
-- **Big Data & Cloud:** PySpark, AWS, Google Cloud
-- **Web Development & Deployment:** Streamlit, FastAPI, Flask, Docker
-- **Version Control & Tools:** Git, MS Excel, MS Office
-- **Soft Skills:** Analytical thinking, Problem-solving, Teamwork, Critical thinking, Adaptability
 
 ## 🎓 Education
 
@@ -39,54 +33,31 @@ Welcome to my project portfolio! I am passionate about leveraging data to uncove
 - **Vocational Training in Forestry and Environmental Management** - _IES El Escorial_ (2014 - 2016)
 - **Sociology Degree** - _Complutense University of Madrid_ (2009 - 2013)
 
+## 🧑‍💻 Languages and Technologies
+
+**Data Science:** 📊 Data Analysis, 🤖 Machine Learning, 📈 Predictive Modeling, 🧠 Deep Learning, 🏗️ Data Engineering
+
+**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+**Tools & Frameworks:** ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
+
+**Data Visualization:** ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-003B57?logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-003F5C?logo=seaborn&logoColor=white)
+
+**Version Control:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+## 🌟 Soft Skills
+
+**Analytical Thinking:** 🔍 | **Problem-Solving:** 🛠️ | **Teamwork:** 🤝 | **Critical Thinking:** 🧠 | **Adaptability:** 🌈
+
 ## 📝 Featured Projects
 
-### [Exploratory Data Analysis on Social Media Impact on Mental Health](https://github.com/Teret90/Exploratory-Data-Analysis-on-Social-Media-Impact-on-Mental-Health)
-
-<!--<img src="./images/pexels-slaytinaaaa-4619829.jpg" alt="MentalHealth" width="150"/>-->
-
-**Objective:** Analyze the relationship between social media usage and mental health using statistical techniques.
-
-- **Technologies:** Python, Pandas, Matplotlib, Seaborn, Plotly
-
-- **Key Achievements:**
-  - **Performed Exploratory Data Analysis (EDA):** Identified key patterns in survey data related to social media usage and mental health risks.
-  - **Identified High-Risk Behavior:** Found that social media use beyond two hours daily is associated with higher mental health risks.
-  - **Actionable Insights:** Applied statistical techniques to extract meaningful insights and trends, providing data-driven recommendations for mental health interventions.
-
-#### Research Impact
-
-This analysis underscores the growing importance of understanding the effects of social media on mental health. The project provides insights that can inform policymakers, mental health professionals, and the public about potential risks associated with excessive social media use.
+| **Project**                                     | **Description**                                                         | **Technologies**                      | **Key Achievements**                                               |
+|-------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------|--------------------------------------------------------------------|
+| **Exploratory Data Analysis on Social Media Impact on Mental Health** | Analyzed the relationship between social media usage and mental health. | Python, Pandas, Matplotlib, Seaborn, Plotly | - Identified key patterns in survey data.<br>- Found higher risks with social media use beyond two hours daily.<br>- Provided actionable insights for mental health interventions. |
+| **Hominid Classification Model with Streamlit Integration** | Developed a classification system for hominid species using machine learning. | Python, Pandas, Numpy, Scikit-learn, Streamlit | - Compared various classification models.<br>- Selected Random Forest for its accuracy and efficiency.<br>- Created a real-time interactive model using Streamlit. |
+| **Generative AI Recipe Recommender**           | Web application recommending recipes based on user-provided ingredients. | Python, FastAPI, OpenAI API, PostgreSQL, Docker, asyncpg | - Developed AI-based recipe recommendations.<br>- Implemented interaction history and history lookup.<br>- Containerized the application with Docker for easy deployment. |
 
 
-### [Hominid Classification Model with Streamlit Integration](https://github.com/Teret90/Hominid-Classification-Model-with-Streamlit-Integration)
-
-<!--<img src="./images/Captura de pantalla 2024-04-25 003524.png" alt="Hominidos" width="300"/>-->
-
-**Objective:** Demonstrate the versatility and effectiveness of machine learning models by developing a classification system for hominid species. This project highlights how machine learning can be applied to diverse fields of research beyond traditional business applications.
-
-- **Technologies:**Python,Pandas, Numpy, Scikit-learn, Streamlit
-
-
-- **Key Achievements**
-  - **Explored Multiple Classification Algorithms:** Compared the performance of various classification models, including **Random Forest**, **Support Vector Machine (SVM)**, and **K-Nearest Neighbors (KNN)**, to determine their suitability for hominid classification.
-  - **Optimized Model Selection:** Identified **Random Forest** as the most effective model due to its superior accuracy, computational efficiency, and ability to handle complex datasets.
-  - **Comprehensive Evaluation:** Assessed the model's performance using key metrics such as accuracy, precision, recall, and F1-score, ensuring a robust and reliable classification system.
-  - **Interactive Deployment:** Developed a user-friendly interface using **Streamlit**, allowing for real-time interaction with the model and providing an accessible platform for users to classify hominid species.
-
-#### Research Impact
-
-This project not only illustrates the potential of machine learning in classification tasks but also underscores its relevance in scientific research. By applying advanced algorithms to hominid classification, the project demonstrates how machine learning can facilitate deeper insights and contribute to various research domains, including anthropology and evolutionary studies.
-
-### [Generative AI Recipe Recommender](https://github.com/Teret90/LLM_Docker)
-**Objective:** Develop a web application that recommends recipes based on user-provided ingredients using generative AI models.
-
-- **Technologies:** Python, FastAPI, OpenAI API, PostgreSQL, Docker, asyncpg
-- **Key Features:**
-  - **Recipe Recommendation:** Users input available ingredients, and the app connects to generative AI models (via OpenAI) to suggest recipes.
-  - **Interaction History:** Users can save their ingredient inputs and the AI-generated recipe suggestions in a PostgreSQL database hosted on Render.
-  - **History Lookup:** Users can view a history of their past interactions, including all queries and recommended recipes.
-- **Deployment:** The application is containerized using Docker for easy deployment. Users can pull the Docker image and run it locally or via Docker Desktop.
 
 ## 💼 Professional Experience
 
