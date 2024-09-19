@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="./assets\img/banner3.png" alt="Teresa Terol Díez" width="150"/>
+
 # 👩‍💻 Teresa Terol Díez - Data Scientist | Data Analyst | Data Engineer
 
-<!--<img src="./images/CV1.jpg" alt="Teresa Terol Díez" width="150"/>-->
+
 
 Welcome to my project portfolio! I am passionate about leveraging data to uncover patterns and trends that drive strategic decision-making. With experience in agricultural data analysis and machine learning, I am eager to contribute to impactful, data-driven projects. Below you will find my key projects, professional experience, and technical skills.
 
@@ -104,11 +107,10 @@ This project not only illustrates the potential of machine learning in classific
 
 
 
-<!--## 📫 Get in touch
+## 📫 Get in touch
 
 - [GitHub](https://github.com/Teret90)
 - [LinkedIn](https://www.linkedin.com/in/teresa-terol-d%C3%ADez-336964190/)
-- [Email](mailto:teresateroldiez@gmail.com)-->
-
+- [Email](mailto:teresateroldiez@gmail.com)
 
 
