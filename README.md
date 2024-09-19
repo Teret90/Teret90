@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="./assets/img/banner4.png" alt="Banner" style="width: 80%; height: auto;"/>
+![Banner](./assets/img/banner4.png)
 
 ---
 
