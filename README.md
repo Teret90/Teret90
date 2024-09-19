@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👩‍💻 Teresa Terol Díez - Data Scientist | Data Analyst | Data Engineer
 
-<img src="./images/CV1.jpg" alt="Teresa Terol Díez" width="150"/>
+<!--<img src="./images/CV1.jpg" alt="Teresa Terol Díez" width="150"/>-->
 
 Welcome to my project portfolio! I am passionate about leveraging data to uncover patterns and trends that drive strategic decision-making. With experience in agricultural data analysis and machine learning, I am eager to contribute to impactful, data-driven projects. Below you will find my key projects, professional experience, and technical skills.
 
@@ -39,9 +39,9 @@ Welcome to my project portfolio! I am passionate about leveraging data to uncove
 
 ## 📝 Featured Projects
 
-### [Exploratory Data Analysis on Social Media Impact on Mental Health](https://github.com/Teret90/EDA)
+### [Exploratory Data Analysis on Social Media Impact on Mental Health](https://github.com/Teret90/Exploratory-Data-Analysis-on-Social-Media-Impact-on-Mental-Health)
 
-<img src="./images/pexels-slaytinaaaa-4619829.jpg" alt="MentalHealth" width="150"/>
+<!--<img src="./images/pexels-slaytinaaaa-4619829.jpg" alt="MentalHealth" width="150"/>-->
 
 **Objective:** Analyze the relationship between social media usage and mental health using statistical techniques.
 
@@ -57,9 +57,9 @@ Welcome to my project portfolio! I am passionate about leveraging data to uncove
 This analysis underscores the growing importance of understanding the effects of social media on mental health. The project provides insights that can inform policymakers, mental health professionals, and the public about potential risks associated with excessive social media use.
 
 
-### [Hominid Classification Model with Streamlit Integration](https://github.com/Teret90/ML)
+### [Hominid Classification Model with Streamlit Integration](https://github.com/Teret90/Hominid-Classification-Model-with-Streamlit-Integration)
 
-<img src="./images/Captura de pantalla 2024-04-25 003524.png" alt="Hominidos" width="300"/>
+<!--<img src="./images/Captura de pantalla 2024-04-25 003524.png" alt="Hominidos" width="300"/>-->
 
 **Objective:** Demonstrate the versatility and effectiveness of machine learning models by developing a classification system for hominid species. This project highlights how machine learning can be applied to diverse fields of research beyond traditional business applications.
 
@@ -105,11 +105,11 @@ This project not only illustrates the potential of machine learning in classific
 
 
 
-## 📫 Get in touch
+<!--## 📫 Get in touch
 
 - [GitHub](https://github.com/Teret90)
 - [LinkedIn](https://www.linkedin.com/in/teresa-terol-d%C3%ADez-336964190/)
-- [Email](mailto:teresateroldiez@gmail.com)
+- [Email](mailto:teresateroldiez@gmail.com)-->
 
 
 
