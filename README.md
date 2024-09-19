@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./assets\img/banner3.png" alt="Teresa Terol Díez" width="150"/>
+<img src="./assets/img/banner3.png" alt="Teresa Terol Díez" width="150"/>
 
 # 👩‍💻 Teresa Terol Díez - Data Scientist | Data Analyst | Data Engineer
 
