@@ -1,31 +1,13 @@
-
-
-<!--
-**Teret90/Teret90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-<!--# 👩‍💻 Data Scientist | Data Analyst | Data Engineer-->
-
+<!-- Banner Image -->
 <img src="./assets/img/banner4.png" alt="Banner" style="width: 80%; height: auto;"/>
+
+---
 
 ## About Me
 
 I’ve always been fascinated by how data can shape the world around us. With a background in **Sociology** and **Forestry Management**, I developed a deep curiosity for understanding complex systems and their impact on both people and the environment. My journey into data science truly began during my time at a startup in Soria, where I worked closely with experts building advanced **machine learning models** to provide accurate agricultural predictions. While my role focused on **gathering and analyzing data**, their passion and expertise sparked my own interest in diving deeper into this incredible field. Now, I’m driven to apply these tools to create meaningful, data-driven solutions that can make a real difference in today’s world.
 
-
-
+---
 
 ## Education
 
@@ -33,9 +15,11 @@ I’ve always been fascinated by how data can shape the world around us. With a 
 - **Vocational Training in Forestry and Environmental Management** - _IES El Escorial_ (2014 - 2016)
 - **Sociology Degree** - _Complutense University of Madrid_ (2009 - 2013)
 
+---
+
 ## Languages and Technologies
 
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sql&logoColor=white) 
+**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 **Frameworks:** ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
@@ -51,10 +35,13 @@ I’ve always been fascinated by how data can shape the world around us. With a 
 
 **Databases:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
+---
 
 ## Soft Skills
 
 **Analytical Thinking:** 🔍 | **Problem-Solving:** 🛠️ | **Teamwork:** 🤝 | **Critical Thinking:** 🧠 | **Adaptability:** 🌈
+
+---
 
 ## Featured Projects
 
@@ -64,31 +51,29 @@ I’ve always been fascinated by how data can shape the world around us. With a 
 | **Hominid Classification Model with Streamlit Integration** | Developed a classification system for hominid species using machine learning. | Python, Pandas, Numpy, Scikit-learn, Streamlit | - Compared various classification models.<br>- Selected Random Forest for its accuracy and efficiency.<br>- Created a real-time interactive model using Streamlit. |
 | **Generative AI Recipe Recommender**           | Web application recommending recipes based on user-provided ingredients. | Python, FastAPI, OpenAI API, PostgreSQL, Docker, asyncpg | - Developed AI-based recipe recommendations.<br>- Implemented interaction history and history lookup.<br>- Containerized the application with Docker for easy deployment. |
 
-
+---
 
 ## Professional Experience
 
 ### **Data Scientist | Field and Analysis Technician** - _Agerpix Technologies_ (2022 - 2023)
 
-  
-  - Conducted **data analysis** to support decision-making processes related to agricultural production.
-  - Prepared and preprocessed image datasets for **machine learning model training**, ensuring data quality and relevance for accurate predictions.
-  - Utilized **QGIS** for **parcel digitization**, improving the accuracy of spatial data used in production estimates.
-  - Performed **field sampling** to gather complementary data, refining and validating model predictions.
-  - Collaborated with the team under an **AGILE** methodology to optimize workflows and streamline data collection processes.
+- Conducted **data analysis** to support decision-making processes related to agricultural production.
+- Prepared and preprocessed image datasets for **machine learning model training**, ensuring data quality and relevance for accurate predictions.
+- Utilized **QGIS** for **parcel digitization**, improving the accuracy of spatial data used in production estimates.
+- Performed **field sampling** to gather complementary data, refining and validating model predictions.
+- Collaborated with the team under an **AGILE** methodology to optimize workflows and streamline data collection processes.
 
-
+---
 
 ### **Biological Control Specialist** - _Aleia Roses/Ondara Directorship_ (2016 - 2020)
-  - Collected and analyzed data related to rose cultivation in a technological greenhouse to manage pest control and diseases efficiently.
-  - Focused on the importance of accurate data collection and continuous analysis to improve agricultural outcomes.
 
+- Collected and analyzed data related to rose cultivation in a technological greenhouse to manage pest control and diseases efficiently.
+- Focused on the importance of accurate data collection and continuous analysis to improve agricultural outcomes.
 
+---
 
-## Get in touch
+## Get in Touch
 
 - [GitHub](https://github.com/Teret90)
 - [LinkedIn](https://www.linkedin.com/in/teresa-terol-d%C3%ADez-336964190/)
 - [Email](mailto:teresateroldiez@gmail.com)
-
-
