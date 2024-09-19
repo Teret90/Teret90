@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Teret90/Teret90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,15 +40,22 @@ Welcome to my project portfolio! I am passionate about leveraging data to uncove
 ## 📝 Featured Projects
 
 ### [Exploratory Data Analysis on Social Media Impact on Mental Health](https://github.com/Teret90/EDA)
+
 <img src="./images/pexels-slaytinaaaa-4619829.jpg" alt="MentalHealth" width="150"/>
 
 **Objective:** Analyze the relationship between social media usage and mental health using statistical techniques.
 
 - **Technologies:** Python, Pandas, Matplotlib, Seaborn, Plotly
+
 - **Key Achievements:**
-  - Performed Exploratory Data Analysis (EDA) to identify key patterns in survey data related to social media usage and mental health risks.
-  - Found that social media use beyond two hours daily is associated with higher mental health risks.
-  - Used statistical techniques to derive actionable insights.
+  - **Performed Exploratory Data Analysis (EDA):** Identified key patterns in survey data related to social media usage and mental health risks.
+  - **Identified High-Risk Behavior:** Found that social media use beyond two hours daily is associated with higher mental health risks.
+  - **Actionable Insights:** Applied statistical techniques to extract meaningful insights and trends, providing data-driven recommendations for mental health interventions.
+
+#### Research Impact
+
+This analysis underscores the growing importance of understanding the effects of social media on mental health. The project provides insights that can inform policymakers, mental health professionals, and the public about potential risks associated with excessive social media use.
+
 
 ### [Hominid Classification Model with Streamlit Integration](https://github.com/Teret90/ML)
 
@@ -65,7 +72,7 @@ Welcome to my project portfolio! I am passionate about leveraging data to uncove
   - **Comprehensive Evaluation:** Assessed the model's performance using key metrics such as accuracy, precision, recall, and F1-score, ensuring a robust and reliable classification system.
   - **Interactive Deployment:** Developed a user-friendly interface using **Streamlit**, allowing for real-time interaction with the model and providing an accessible platform for users to classify hominid species.
 
-## Research Impact
+#### Research Impact
 
 This project not only illustrates the potential of machine learning in classification tasks but also underscores its relevance in scientific research. By applying advanced algorithms to hominid classification, the project demonstrates how machine learning can facilitate deeper insights and contribute to various research domains, including anthropology and evolutionary studies.
 
