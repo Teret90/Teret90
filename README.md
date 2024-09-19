@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!--# 👩‍💻 Data Scientist | Data Analyst | Data Engineer-->
 
-<img src="./assets/img/banner4.png" alt="Banner" width="800" height="400"/>
+<img src="./assets/img/banner4.png" alt="Banner" style="width: 80%; height: auto;"/>
 
 ## About Me
 
