@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👩‍💻 Teresa Terol Díez - Data Scientist | Data Analyst | Data Engineer
 
-<img src="./images/cv1.jpg" alt="Teresa Terol Díez" width="150"/>
+<img src="./images/CV1.jpg" alt="Teresa Terol Díez" width="150"/>
 
 Welcome to my project portfolio! I am passionate about leveraging data to uncover patterns and trends that drive strategic decision-making. With experience in agricultural data analysis and machine learning, I am eager to contribute to impactful, data-driven projects. Below you will find my key projects, professional experience, and technical skills.
 
