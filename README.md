@@ -27,25 +27,32 @@ I’ve always been fascinated by how data can shape the world around us. With a 
 
 
 
-## 🎓 Education
+## Education
 
 - **Data Science Bootcamp** - _The Bridge_ (2024)
 - **Vocational Training in Forestry and Environmental Management** - _IES El Escorial_ (2014 - 2016)
 - **Sociology Degree** - _Complutense University of Madrid_ (2009 - 2013)
 
-## 🧑‍💻 Languages and Technologies
+## Languages and Technologies
 
-**Data Science:** 📊 Data Analysis, 🤖 Machine Learning, 📈 Predictive Modeling, 🧠 Deep Learning, 🏗️ Data Engineering
+**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sql&logoColor=white) 
 
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+**Frameworks:** ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
-**Tools & Frameworks:** ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
+**Libraries:** ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
 
-**Data Visualization:** ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-003B57?logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-003F5C?logo=seaborn&logoColor=white)
+**Tools & Environments:** ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+
+**Data Visualization:** ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-003B57?logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-003F5C?logo=seaborn&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F8C?logo=plotly&logoColor=white) ![Folium](https://img.shields.io/badge/-Folium-13C8A4?logo=folium&logoColor=white)
 
 **Version Control:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
-## 🌟 Soft Skills
+**Deployment:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+**Databases:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+
+## Soft Skills
 
 **Analytical Thinking:** 🔍 | **Problem-Solving:** 🛠️ | **Teamwork:** 🤝 | **Critical Thinking:** 🧠 | **Adaptability:** 🌈
 
@@ -59,7 +66,7 @@ I’ve always been fascinated by how data can shape the world around us. With a 
 
 
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### **Data Scientist | Field and Analysis Technician** - _Agerpix Technologies_ (2022 - 2023)
 
@@ -78,7 +85,7 @@ I’ve always been fascinated by how data can shape the world around us. With a 
 
 
 
-## 📫 Get in touch
+## Get in touch
 
 - [GitHub](https://github.com/Teret90)
 - [LinkedIn](https://www.linkedin.com/in/teresa-terol-d%C3%ADez-336964190/)
